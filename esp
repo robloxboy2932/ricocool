@@ -543,7 +543,7 @@ function library:CreateWindow(WName)
 	end
 	pcall(function()
 		game:GetService("StarterGui"):SetCore("SendNotification", {
-        	Title = "ricocool",
+        	Title = "esp / viewer",
         	Text = "made by volends#0001",
         	Duration = 5
    	 	})
